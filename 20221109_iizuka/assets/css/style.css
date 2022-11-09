@@ -62,7 +62,7 @@ header {
 
 .content_firstview {
   width: 50%;
-  height: 40vh;
+  height: auto;
   position: absolute;
   top: 10vh;
   right: 0px;
